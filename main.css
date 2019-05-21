@@ -1,0 +1,61 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Lato', sans-serif;
+    background-color: #f0ede4;
+  }
+  
+  header {
+    width: 100%;
+    height: 200px;
+    padding: 50px;
+  }
+  
+  .logo {
+    text-align: center;
+    padding: 27px;
+    border: solid 1px black;
+    width: 200px;
+    height: 75px;
+  }
+  .mainContainer {
+    width: 700px;
+    height: 500px;
+    text-align: center;
+    margin: 0 auto;
+    border: solid 1px black;
+    padding: 50px;
+  }
+  h1 {
+    font-size: 36px;
+    font-weight: 400;
+  }
+  .startButton{
+    font-size: 36px;
+    margin: 50px;
+    padding: 20px;
+    font-weight: 400;
+    
+  }
+  
+  footer {
+    width: 100%;
+    height: 100px;
+  } 
+  
+  li {
+    list-style: none;
+    display: inline;
+    padding: 10px;
+    font-family: 24px;
+  }
+  
+  .scoreContainer {
+    margin: 50px;
+    height:75px;
+    width: 300px;
+    font-family: 24px;
+  }
+  
+  
